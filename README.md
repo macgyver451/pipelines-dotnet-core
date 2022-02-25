@@ -1,9 +1,6 @@
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+[![Build Status](https://dev.azure.com/modramp/mac-test/_apis/build/status/macgyver451.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/modramp/mac-test/_build/latest?definitionId=27&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
-
-#![example workflow](https://github.com/macgyver451/pipelines-dotnet-core/actions/workflows/azure-pipelines.yml/badge.svg)
-
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
