@@ -1,4 +1,4 @@
-![example workflow](https://github.com/macgyver451/pipelines-dotnet-core/main.yml/badge.svg)
+![example workflow](https://github.com/macgyver451/pipelines-dotnet-core/azure-pipelines.yml/badge.svg)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
